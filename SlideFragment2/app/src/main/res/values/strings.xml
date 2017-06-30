@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SlideFragment</string>
+    <string name="description">Alien is a 1979 British-American science-fiction horror
+        film directed by Ridley Scott, and starring Sigourney Weaver, Tom Skerritt, Veronica
+        Cartwright, Harry Dean Stanton, John Hurt, Ian Holm and Yaphet Kotto. The film\'s title
+        refers to a highly aggressive extraterrestrial creature that stalks and attacks the crew
+        of a spaceship. Dan O\'Bannon wrote the screenplay from a story he wrote with Ronald Shusett,
+        drawing influence from previous works of science fiction and horror. </string>
+
+    <string name="desc">移动互联网让用户越来越难以分开生活和工作、决策与娱乐，这样一来用户可能在购物决策上也越来越“懒惰”和非理性化，即当他们在阅读那些经过系统精心挑选的信息和内容并产生购物冲动时，他们可能并不会去天猫或京东这样的电商网站，而是希望直接下单，他们享受的是这种立即实现的快感，这时，那些经过长期积累起来的购物入口价值将面临被侵蚀的风险。
+
+        　　而那些占据用户最多时空份额的公司，在这种价值重构中将成为受益者，比如腾讯，这也是阿里要一次次死磕社交、力推大文娱、甚至要将淘宝微博化和今日头条化的深层次原因，这也可以解释阿里巴巴与腾讯、京东之间越来越充满火药味的战争，甚至还可以解释最近阿里和顺丰之间的冲突。
+
+        　　对电商而言，要想在新的用户注意力产生模式中占据有利位置，要么是基础设施化（比如物流，不管入口在哪里，最终都要用到物流），要么在时空份额中获得更大的份额，或与那些拥有更多份额的公司建立牢固的合作，比如京东与腾讯的关系，要么是建立更强的消费者心智入口，在这方面京东目前在那些强调体验差异化体验的用户那里建立了较强的认知，而淘宝则建立了无所不能的认知（但阿里巴巴并非一个消费者品牌，而是一个企业品牌）。
+
+        　　在京东市值赶超百度的过程中，京东在上述三个方面的进展贡献良多，但即便如此，说京东开启 JAT 时代也言之过早：
+
+        　　京东在任何一个领域都尚未建立起绝对主导的地位，其盈利模式也仍然面临着市场份额和毛利率之间的艰难选择，其服务体验的差异化价值也在下降，比如去年我在购买空调时，就选择了苏宁实体店，因为它可以直接安排送货安装，价格也差不多，而京东需要我自己回头去找厂家安排这些，费时费力，而 3C 和大家电是京东最核心的业务领域。
+
+        　　此外，它与腾讯的合作能深入到什么程度，暂时也很难说，现在市场对它的看好中，有不少是给腾讯的，在一些人看来，京东更像是腾迅生态的一个重要组成部分，而不是一个完全独立的生态。
+
+        　　相反，阿里在云服务领域已经建立了明显的优势，同时在海外也很可能获得了不错的增长动力，淘宝则有机会通过电商娱乐化来提高用户时空比例，而蚂蚁金服也开始贡献规模级收入，更重要的是，一旦上述几个方面的收入能够扮演新的引擎角色，阿里就可能有更多的空间在京东的核心业务上发动价格战，来压缩京东的战略投入资源，京东的盈利状况也可能再次恶化。</string>
+</resources>
